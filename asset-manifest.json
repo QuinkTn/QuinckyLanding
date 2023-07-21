@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QuinckyLanding/static/css/main.fd190693.chunk.css",
+    "main.js": "/QuinckyLanding/static/js/main.dfd8d4dc.chunk.js",
+    "main.js.map": "/QuinckyLanding/static/js/main.dfd8d4dc.chunk.js.map",
+    "runtime-main.js": "/QuinckyLanding/static/js/runtime-main.83a06f1c.js",
+    "runtime-main.js.map": "/QuinckyLanding/static/js/runtime-main.83a06f1c.js.map",
+    "static/js/2.da16fa54.chunk.js": "/QuinckyLanding/static/js/2.da16fa54.chunk.js",
+    "static/js/2.da16fa54.chunk.js.map": "/QuinckyLanding/static/js/2.da16fa54.chunk.js.map",
+    "static/js/3.cbba99c1.chunk.js": "/QuinckyLanding/static/js/3.cbba99c1.chunk.js",
+    "static/js/3.cbba99c1.chunk.js.map": "/QuinckyLanding/static/js/3.cbba99c1.chunk.js.map",
+    "index.html": "/QuinckyLanding/index.html",
+    "static/css/main.fd190693.chunk.css.map": "/QuinckyLanding/static/css/main.fd190693.chunk.css.map",
+    "static/js/2.da16fa54.chunk.js.LICENSE.txt": "/QuinckyLanding/static/js/2.da16fa54.chunk.js.LICENSE.txt",
+    "static/media/LogWhite.e7c28ff8.png": "/QuinckyLanding/static/media/LogWhite.e7c28ff8.png",
+    "static/media/SourceCodePro-Regular.277a94f3.woff2": "/QuinckyLanding/static/media/SourceCodePro-Regular.277a94f3.woff2",
+    "static/media/SourceCodePro-Regular.a551956d.woff": "/QuinckyLanding/static/media/SourceCodePro-Regular.a551956d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83a06f1c.js",
+    "static/js/2.da16fa54.chunk.js",
+    "static/css/main.fd190693.chunk.css",
+    "static/js/main.dfd8d4dc.chunk.js"
+  ]
+}
